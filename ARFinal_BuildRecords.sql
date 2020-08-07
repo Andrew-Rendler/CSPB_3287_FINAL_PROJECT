@@ -1,0 +1,73 @@
+/*INSERT INTO PeopleMaster VALUES
+(0,"Vester McGufrin","VmcG@gmail.com","555-368-1023"),
+(1,"Welda Speezberger","wspeez@aol.com","555-961-7452"),
+(2,"Captain Incredible's Gizmo Warehouse","cap@gizmos.edu","555-888-8888"),
+(3,"Wheeley Sneekers and the Monkey Juggler","thesneeker@wsmj.org","555-636-6363"),
+(4,"Urgulgru Octoberfest ","urgulgru@dundermifflin.com","555-351-6954"),
+(5,"Slim Jinkin","slim@netscape.com","555-335-6621"),
+(6,"Charles Widmore","cw@dharma.ini","555-111-2223"),
+(7,"Creed Bratton","creed@creedthoughts.gov","555-123-7852");
+*/
+
+/*
+INSERT INTO PartMaster VALUES
+(0,2,"Super Gizmo",1.23,4.99),
+(1,2,"Turbo Bang Bang",5.36,15.05),
+(2,3,"Wunder Widget",50.95,70.5),
+(3,3,"Crabbily Nappler",259.99,399.99),
+(4,3,"Spiz-Force Incentivize Tronic",1020.99,1549.95);
+*/
+/*
+INSERT INTO OrderMaster VALUES
+(0,"P",0,2,100,CONVERT('2020-7-1',DATE)),
+(0,"S",1,0,10,CONVERT("2020-7-4",DATE)),
+(0,"S",2,1,30,CONVERT("2020-7-7",DATE)),
+(0,"S",3,0,10,CONVERT("2020-7-10",DATE)),
+(0,"S",4,1,30,CONVERT("2020-7-13",DATE)),
+(0,"P",5,2,60,CONVERT("2020-7-16",DATE)),
+(0,"S",6,0,10,CONVERT("2020-7-19",DATE)),
+(0,"S",7,1,20,CONVERT("2020-7-22",DATE)),
+(0,"S",8,4,20,CONVERT("2020-7-25",DATE)),
+(0,"S",9,1,20,CONVERT("2020-7-28",DATE)),
+(1,"P",10,2,50,CONVERT("2020-7-5",DATE)),
+(1,"S",11,4,5,CONVERT("2020-7-8",DATE)),
+(1,"S",12,5,10,CONVERT("2020-7-11",DATE)),
+(1,"S",13,4,15,CONVERT("2020-7-14",DATE)),
+(1,"S",14,5,20,CONVERT("2020-7-17",DATE)),
+(1,"P",15,2,50,CONVERT("2020-7-20",DATE)),
+(1,"S",16,4,5,CONVERT("2020-7-23",DATE)),
+(1,"S",17,4,10,CONVERT("2020-7-26",DATE)),
+(1,"S",18,5,15,CONVERT("2020-7-29",DATE)),
+(1,"P",19,2,50,CONVERT("2020-8-1",DATE)),
+(2,"P",20,3,10000,CONVERT("2020-7-3",DATE)),
+(2,"S",21,0,1000,CONVERT("2020-7-6",DATE)),
+(2,"S",22,1,1000,CONVERT("2020-7-9",DATE)),
+(2,"S",23,4,1000,CONVERT("2020-7-12",DATE)),
+(2,"P",24,3,5000,CONVERT("2020-7-15",DATE)),
+(2,"S",25,5,3000,CONVERT("2020-7-18",DATE)),
+(2,"S",26,0,3000,CONVERT("2020-7-21",DATE)),
+(2,"S",27,1,3000,CONVERT("2020-7-24",DATE)),
+(2,"P",28,3,5000,CONVERT("2020-7-27",DATE)),
+(2,"S",29,4,3000,CONVERT("2020-7-30",DATE)),
+(3,"P",30,3,60,CONVERT("2020-7-10",DATE)),
+(3,"S",31,6,1,CONVERT("2020-7-13",DATE)),
+(3,"S",32,7,15,CONVERT("2020-7-16",DATE)),
+(3,"S",33,4,15,CONVERT("2020-7-19",DATE)),
+(3,"S",34,4,1,CONVERT("2020-7-22",DATE)),
+(3,"S",35,4,1,CONVERT("2020-7-25",DATE)),
+(3,"S",36,5,1,CONVERT("2020-7-28",DATE)),
+(3,"S",37,5,1,CONVERT("2020-7-31",DATE)),
+(3,"S",38,4,10,CONVERT("2020-8-3",DATE)),
+(3,"S",39,5,10,CONVERT("2020-8-6",DATE)),
+(4,"P",40,3,850,CONVERT("2020-7-2",DATE)),
+(4,"S",41,5,100,CONVERT("2020-7-5",DATE)),
+(4,"S",42,6,100,CONVERT("2020-7-8",DATE)),
+(4,"S",43,6,150,CONVERT("2020-7-11",DATE)),
+(4,"S",44,7,150,CONVERT("2020-7-14",DATE)),
+(4,"S",45,7,150,CONVERT("2020-7-17",DATE)),
+(4,"S",46,6,100,CONVERT("2020-7-20",DATE)),
+(4,"S",47,7,100,CONVERT("2020-7-23",DATE)),
+(4,"P",48,3,850,CONVERT("2020-7-26",DATE)),
+(4,"S",49,0,200,CONVERT("2020-7-29",DATE))
+*/
+
